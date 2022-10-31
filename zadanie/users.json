@@ -1,0 +1,172 @@
+{
+    "users": [
+      {
+        "first_name": "Antonina",
+        "last_name": "Pilarska",
+        "email": "Antonina_Pilarski69@yahoo.com",
+        "username": "Antonina.Pilarska",
+        "password": "08081988"
+      },
+      {
+        "first_name": "Matylda",
+        "last_name": "Szwarc",
+        "email": "Matylda.Szwarc75@gmail.com",
+        "username": "Matylda57",
+        "password": "15011987"
+      },
+      {
+        "first_name": "Sybilla",
+        "last_name": "Wolińska",
+        "email": "Sybilla_Conn@hotmail.com",
+        "username": "Sybilla.Stark",
+        "password": "starship"
+      },
+      {
+        "first_name": "Seweryn",
+        "last_name": "Kawa",
+        "email": "Seweryn59@gmail.com",
+        "username": "Seweryn.Kawa3",
+        "password": "panther"
+      },
+      {
+        "first_name": "Ksenofont",
+        "last_name": "Janicki",
+        "email": "Ksenofont.Janicki68@yahoo.com",
+        "username": "Ksenofont20",
+        "password": "yamaha"
+      },
+      {
+        "first_name": "Zygmunt",
+        "last_name": "Krzyżanowski",
+        "email": "Zygmunt_Lind@gmail.com",
+        "username": "Zygmunt83",
+        "password": "skywalker"
+      },
+      {
+        "first_name": "Prokul",
+        "last_name": "Biernacki",
+        "email": "Prokul.Biernacki12@yahoo.com",
+        "username": "Prokul72",
+        "password": "junior"
+      },
+      {
+        "first_name": "Marianna",
+        "last_name": "Świątek",
+        "email": "Marianna_Okuneva@hotmail.com",
+        "username": "Marianna44",
+        "password": "tigers"
+      },
+      {
+        "first_name": "Platon",
+        "last_name": "Paszkowski",
+        "email": "Platon77@hotmail.com",
+        "username": "Platon.Paszkowski",
+        "password": "yellow"
+      },
+      {
+        "first_name": "Ludwik",
+        "last_name": "Cieślik",
+        "email": "Ludwik_Kulas32@yahoo.com",
+        "username": "Ludwik_Miller45",
+        "password": "samsung"
+      },
+      {
+        "first_name": "Rajmund",
+        "last_name": "Kubiak",
+        "email": "Rajmund.Kubiak@gmail.com",
+        "username": "Rajmund_Kubiak",
+        "password": "peanut"
+      },
+      {
+        "first_name": "Karolina",
+        "last_name": "Nowińska",
+        "email": "Karolina47@gmail.com",
+        "username": "Karolina_Doyle",
+        "password": "cookie"
+      },
+      {
+        "first_name": "Bibianna",
+        "last_name": "Białkowska",
+        "email": "Bibianna36@yahoo.com",
+        "username": "Bibianna.Hamill",
+        "password": "piccolo"
+      },
+      {
+        "first_name": "Krystian",
+        "last_name": "Frątczak",
+        "email": "Krystian_Rosenbaum@hotmail.com",
+        "username": "Krystian75",
+        "password": "applepie"
+      },
+      {
+        "first_name": "Ignacy",
+        "last_name": "Pietras",
+        "email": "Ignacy73@hotmail.com",
+        "username": "Ignacy_Pietras",
+        "password": "mustang"
+      },
+      {
+        "first_name": "Anastazja",
+        "last_name": "Stachurska",
+        "email": "Anastazja_Stachurski@gmail.com",
+        "username": "Anastazja_Stachurska",
+        "password": "hello"
+      },
+      {
+        "first_name": "Elwira",
+        "last_name": "Żyła",
+        "email": "Elwira_Muller62@hotmail.com",
+        "username": "Elwira.Reynolds",
+        "password": "qazwsx"
+      },
+      {
+        "first_name": "Filemon",
+        "last_name": "Bochenek",
+        "email": "Filemon_Bochenek68@gmail.com",
+        "username": "Filemon76",
+        "password": "thunder"
+      },
+      {
+        "first_name": "Bernard",
+        "last_name": "Wiśniewski",
+        "email": "Bernard87@yahoo.com",
+        "username": "Bernard_Ullrich27",
+        "password": "starwars"
+      },
+      {
+        "first_name": "Ada",
+        "last_name": "Masłowska",
+        "email": "Ada_Masloy@yahoo.com",
+        "username": "Ada.Ledner45",
+        "password": "maslo"
+      },
+      {
+        "first_name": "Krystian",
+        "last_name": "Wąsowski",
+        "email": "Krystian_Rutherford5@yahoo.com",
+        "username": "Krystian43",
+        "password": "zxcvbn"
+      },
+      {
+        "first_name": "Artur",
+        "last_name": "Skrzypek",
+        "email": "Artur27@gmail.com",
+        "username": "Artur.Skrzypek27",
+        "password": "zxcvbn"
+      },
+      {
+        "first_name": "Liliana",
+        "last_name": "Słowińska",
+        "email": "Liliana.Beatty@yahoo.com",
+        "username": "Liliana.Ziemann4",
+        "password": "trustno1"
+      },
+      {
+        "first_name": "Kamila",
+        "last_name": "Zagórska",
+        "email": "Kamila_Thompson37@yahoo.com",
+        "username": "Kamila_Schimmel60",
+        "password": "asdfgh"
+      }
+    ]
+  }
